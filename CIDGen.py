@@ -7,7 +7,7 @@ init()
 
 print(Fore.GREEN + "=" * 17)
 print(Fore.MAGENTA + "Mr.ION CID Generator")
-print("Subscribe: http://Youtube.Com/User/MultiBrute Leader")
+print("Subscribe: http://Youtube.Com/User/Stealth Hackers")
 print(Fore.GREEN + "=" * 17)
 
 #Now this is where we will input the data for it to generate a console ID
